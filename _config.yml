@@ -2,13 +2,13 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'Ἥφαιστος'
-description: 'Hephaestus. Desu yoroshiku onegai-ta-shimasu... Da ne...'
+title: 'Гефест'
+description: 'Професійний коваль, є досвід роботи в різних умовах: дно морське, гори Олімпу. Зможу виковати будь яку річ, від статуеток - до трону. Мої вироби відомі своєю красою та міцністю.'
 
 # Images
 avatar: 'avatar.png'
-background: 'istockphoto.jpg'
-favicon: 'favicon.ico'
+background: 'Acropolis.jpg'
+favicon: 'forge.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
@@ -21,21 +21,21 @@ youtube: 'myyoutube'
 github-user: 'mygithub'
 #gitlab-user: ''
 #codepen: ''
-#steam: ''
+steam: 'mysteam'
 #soundcloud: ''
 #lastfm: ''
 #stack-overflow: ''
-#reddit: ''
+reddit: 'myreddit'
 #rubygems: ''
 #medium:  ''
 tumblr: 'mytumblr'
-weibo: 'myweibo'
+#weibo: 'myweibo'
 vk: 'myvk'
 blog_url: 'myblog.blog.com'
 email: 'hello@example.com'
-messenger: 'myfbchat'
+#messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, facebook, twitter, instagram, steam, pinterest, reddit, youtube, vk, tumblr, blog_url, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -138,7 +138,7 @@ social-links:
     icon-class: fab fa-2x fa-facebook-messenger
 
   - name: telegram
-    url-pattern: telegram.me/__USERNAME__
+    url-pattern: telegram.me/Hephaestus
 
   - name: snapchat
     url-pattern: snapchat.com/add/__USERNAME__
